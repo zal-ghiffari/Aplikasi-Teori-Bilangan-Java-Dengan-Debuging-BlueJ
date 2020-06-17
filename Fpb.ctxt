@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Fpb
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fpb\ here.\r\n\r\n\ @author\ (M\ Novrizal)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Fpb()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fpb\r\n
+comment2.params=bil1\ bil2
+comment2.target=int\ cariFPB(int,\ int)
+numComments=3
